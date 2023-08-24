@@ -3,7 +3,8 @@ import React from "react";
 const Config = () => {
     return(
         <div>
-           Config Component 
+            <h1>Config Component </h1>
+           
         </div>
     )
 }
